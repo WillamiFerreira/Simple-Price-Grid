@@ -21,3 +21,5 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### The challenge
 
 ### Screenshot
+![screenshot](https://user-images.githubusercontent.com/98838062/192821806-af4d3bd3-5577-4db6-aa86-aa76cceb6a67.png)
+
