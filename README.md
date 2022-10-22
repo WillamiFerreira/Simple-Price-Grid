@@ -5,21 +5,28 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-### The challenge
-
 ### Screenshot
-![screenshot](https://user-images.githubusercontent.com/98838062/192821806-af4d3bd3-5577-4db6-aa86-aa76cceb6a67.png)
+![Simple-grid-price-screenshot](https://user-images.githubusercontent.com/98838062/197358879-ce7318fc-03af-47af-a9d4-25a635fd4077.png)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+
+## Author
+
+- Frontend Mentor - [@WillamiFerreira](https://www.frontendmentor.io/profile/WillamiFerreira)
+- Twitter - [@ferrersgab](https://www.twitter.com/ferrersgab)
 
