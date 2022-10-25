@@ -23,7 +23,7 @@ body{
     background-color: var(--Light-Gray);
     cursor:default;
 }
-main{
+.main{
     display: flex;
     flex-direction: column;
     width: 290px;
@@ -45,14 +45,16 @@ h3{
 .div1 h3{
     color: var(--Cyan);
 }
-.div1 h4{
-    margin-bottom: 13px;
-    color: var(--Bright-Yellow);
-}
-.div1 p{
+
+.paragrath{
     font-size: 0.82em;
     line-height: 25px;
     color: var(--Grayish-Blue);
+}
+.sub-title{
+    margin-bottom: 13px;
+    color: var(--Bright-Yellow);
+    font-weight: 700;
 }
 .bottom{
     border-radius: 0 0 10px 10px;
@@ -108,7 +110,10 @@ h3{
 .div3 h3{
     color: white;
 }
-.div3 p{
+ul{
+    list-style-type:none;
+}
+.div3 li{
     font-size: 0.9em;
     color: hsl(204, 43%, 93%);
     line-height: 20px;
@@ -117,7 +122,7 @@ h3{
 
 @media screen and (min-width: 650px) {
 
-    main{
+    .main{
         display: grid;
         min-width: 635px;
         min-height: fit-content;
@@ -135,12 +140,12 @@ h3{
     .div1 h3{
         font-size: 1.4em;
     }
-    .div1 h4{
-        font-size: 1.05em;
-    }
-    .div1 p{
+    .paragrath{
         line-height: 1.7em;
         font-size: 1em;
+    }
+    .sub-title{
+        font-size: 1.05em;
     }
     .bottom{
         display: flex;
